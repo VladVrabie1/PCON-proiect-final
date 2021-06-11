@@ -1,46 +1,44 @@
-# (Titlu)
-(Scurtă descriere)
+# (Midi controller utilizat ca interfata hardware intre Max 8 si un synth modular analogic)
+Proiectul are ca scop folosirea porturilor CVout ale unui midi controller (Arturia Beatstep Pro) utilizand Max8 - OSC, pentru a comanda un sintetizator modular analogic . Desfasurarea proiectului va avea loc in 3 etape.
+
+1)	Interfatarea Max8 – Arturia Beatstep Pro. Citirea si interpretarea codului MIDI in Max8, iar verificarea se va face comparativ cu informatiile gasite MIDI Control Center, interfata grafica a controller-ului;
+
+2)	Interfatarea Telefon mobil – Max/MSP – Arturia Beatstep Pro 
+
+3)	Optimizarea programului in Max/MSP
+
 
 ## (Instalare)
-...
+Se conecteaza Arturia Beatstep Pro la PC prin USB. Iesirile Pitch/Velocity/Gate ale celor doua seq. se conecteaza la sintetizator. Prin OSC, coordonatele x si y vor comanda cele doua seq. ale MIDI controllerului. Axa Oz va varia taria sunetului. 
+![arturiaCV](https://user-images.githubusercontent.com/84208189/121741285-f8d6c880-cb06-11eb-9685-22a7adb83c37.png)
+
+Resursele HW folosite sunt prezentate in imaginile de mai jos.
+
+![IMG_5305](https://user-images.githubusercontent.com/84208189/121739413-3f76f380-cb04-11eb-9c36-b548c705e326.JPG)
+
+![IMG_5308](https://user-images.githubusercontent.com/84208189/121739466-53baf080-cb04-11eb-8e99-1fd7afb5ebab.JPG)
+
+![arturiaCV](https://user-images.githubusercontent.com/84208189/121741633-76023d80-cb07-11eb-88d8-57e1f246f2d4.png)
+
+
 
 ## (Utilizare)
-...
+Simplu: Se apasa pe toogle (START). Functionalitatea codului este explicata in proiect.
+
 
 ## (Istoric)
 
-(13.05) ...
+(14.05) Interfatare Max/MSP - Arturia Beatstep Pro. 
 
-(3.06) ...
+(08.06) Implementarea unui algoritm scale selector.
 
-(X.06) ...
+(11.06) Proiect finalizat 
 
 ## (Link-uri)
 ...
 
 # Dezvoltarea proiectului
 
-Pentru început:
-
-1. Creează-ți cont pe Github
-2. Download și install [Github Desktop](https://desktop.github.com/)
-3. Citește [acest ghid](https://charlesmartin.com.au/blog/2020/08/09/student-project-repository) și ține la îndemână [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet).
-
-Apoi, procesul este următorul (inspirat de [aici](https://cs.anu.edu.au/courses/comp1720/deliverables/05-major-project/#submission-process)):
-
-1. *fork* al acestui template către propriul tău cont de Github
-
-![](assets/fork.gif)
-
-_(dacă preferi cumva ca repo-ul să nu fie vizibil de către public, îl poți seta ca Private din Settings - "Change visibility". Atunci trebuie să mă adaugi drept colaborator, ca eu să am acces.)_
-
-2. *clone* al repo-ului din Github Desktop pentru a-l downloada local
-
-![](assets/clone.gif)
-
-3. *commit* și *push* pe măsură ce lucrezi la proiect. Ultima versiune push-ată pe server înainte de deadline va conta pentru evaluare.
-
-![](assets/commit.gif)
 
 ## Elemente obligatorii
 
