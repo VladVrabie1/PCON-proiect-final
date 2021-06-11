@@ -1,4 +1,5 @@
 # (Midi controller utilizat ca interfata hardware intre Max 8 si un synth modular analogic)
+
 Proiectul are ca scop folosirea porturilor CVout ale unui midi controller (Arturia Beatstep Pro) utilizand Max8 - OSC, pentru a comanda un sintetizator modular analogic . Desfasurarea proiectului va avea loc in 3 etape.
 
 1)	Interfatarea Max8 – Arturia Beatstep Pro. Citirea si interpretarea codului MIDI in Max8, iar verificarea se va face comparativ cu informatiile gasite MIDI Control Center, interfata grafica a controller-ului;
@@ -36,10 +37,12 @@ Simplu: Se apasa pe toogle (START). Functionalitatea codului este explicata in p
 
 ## (Link-uri)
 https://docs.cycling74.com/max8
+
 https://www.inspiredacoustics.com/en/MIDI_note_numbers_and_center_frequencies
 
 # Dezvoltarea proiectului
 
+Avand deja la dispozitie un sintetizator modular analogic (facut de mine), m-am gandit sa il pot controla cu Max8 folosind Arturia Beatstep Pro. La inceput am vrut sa fac o melodie in Max8, iar apoi m-am razgandit, rezumandu-ma la folosirea telefonului drept remote controller. 
 
 ## Elemente obligatorii
 
