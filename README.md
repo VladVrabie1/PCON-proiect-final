@@ -44,6 +44,8 @@ https://www.inspiredacoustics.com/en/MIDI_note_numbers_and_center_frequencies
 
 Avand deja la dispozitie un sintetizator modular analogic (facut de mine), m-am gandit sa il pot controla cu Max8 folosind Arturia Beatstep Pro. La inceput am vrut sa fac o melodie in Max8, iar apoi m-am razgandit, rezumandu-ma la folosirea telefonului drept remote controller. 
 
+Prezentare proiect - https://wetransfer.com/downloads/303c23dcfd2d0b3a4f3ee21e0fe6ab9a20210611225143/ff53c1 (~900Mb)
+
 ## Elemente obligatorii
 
 1. Acest readme completat. Titlu, descriere, mod de utilizare, istoric, link-uri utile.
