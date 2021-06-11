@@ -24,7 +24,7 @@ Resursele HW folosite sunt prezentate in imaginile de mai jos.
 
 
 ## (Utilizare)
-Simplu: Se apasa pe toogle (START). Functionalitatea codului este explicata in proiect.
+Simplu: Se apasa pe toogle (START). Functionalitatea codului este explicata in proiect si in video.
 
 
 ## (Istoric)
@@ -44,6 +44,7 @@ https://www.inspiredacoustics.com/en/MIDI_note_numbers_and_center_frequencies
 
 Avand deja la dispozitie un sintetizator modular analogic (facut de mine), m-am gandit sa il pot controla cu Max8 folosind Arturia Beatstep Pro. La inceput am vrut sa fac o melodie in Max8, iar apoi m-am razgandit, rezumandu-ma la folosirea telefonului drept remote controller. 
 
+Prezentare proiect - https://youtu.be/mMVbhg-OQww
 
 ## Elemente obligatorii
 
