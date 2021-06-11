@@ -35,7 +35,8 @@ Simplu: Se apasa pe toogle (START). Functionalitatea codului este explicata in p
 (11.06) Proiect finalizat 
 
 ## (Link-uri)
-...
+https://docs.cycling74.com/max8
+https://www.inspiredacoustics.com/en/MIDI_note_numbers_and_center_frequencies
 
 # Dezvoltarea proiectului
 
