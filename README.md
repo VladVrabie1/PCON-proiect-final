@@ -11,7 +11,6 @@ Proiectul are ca scop folosirea porturilor CVout ale unui midi controller (Artur
 
 ## (Instalare)
 Se conecteaza Arturia Beatstep Pro la PC prin USB. Iesirile Pitch/Velocity/Gate ale celor doua seq. se conecteaza la sintetizator. Prin OSC, coordonatele x si y vor comanda cele doua seq. ale MIDI controllerului. Axa Oz va varia taria sunetului. 
-![arturiaCV](https://user-images.githubusercontent.com/84208189/121741285-f8d6c880-cb06-11eb-9685-22a7adb83c37.png)
 
 Resursele HW folosite sunt prezentate in imaginile de mai jos.
 
